@@ -36,7 +36,9 @@ pip install -r requirements.txt
 ``` shell
 composer require swiftmailer/swiftmailer
 ```
-
+## Бизнес идеи
+- Може да се разпространява в контейнерна форма за самостоятелно хостване срещу такса за поддръжка и security updates
+- Може и да се разпространява като cloud solution срещу по-висока такса. такса защото се хоства от нас.
 Направено с много любов за Rose Valley Hackathon Казанлък 2025 
 
 
